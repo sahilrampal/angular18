@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    border: .5em red double;
+    border-radius: .25em;
+    padding: .25em;
+    text-align: center;
+    
+}
+p{
+    border: .25em blue solid;
+    border-radius: .25em;
+    padding: .25em;
+}
